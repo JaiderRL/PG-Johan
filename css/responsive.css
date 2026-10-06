@@ -1,0 +1,1453 @@
+@media (min-width: 1700px) {
+  .home-view {
+    padding-left: 7vw;
+    padding-right: 7vw;
+  }
+  .home-main {
+    margin-top: 8vh;
+    max-width: 650px;
+  }
+  .game-logo strong {
+    font-size: 125px;
+  }
+  .game-logo > span {
+    font-size: 66px;
+  }
+  .home-menu {
+    width: 355px;
+    margin-top: 38px;
+  }
+  .home-tagline {
+    font-size: 21px;
+  }
+  .adventure-card {
+    right: 7vw;
+    bottom: 110px;
+    width: 430px;
+  }
+  .home-footer {
+    font-size: 11px;
+  }
+  .home-footer span:nth-child(2) {
+    font-size: 10px;
+  }
+  .adventure-label {
+    font-size: 11px;
+  }
+  .play-button {
+    min-height: 87px;
+  }
+}
+@media (max-height: 800px) and (min-width: 901px) {
+  .home-view {
+    min-height: 700px;
+    padding-top: 23px;
+  }
+  .home-main {
+    margin-top: 26px;
+  }
+  .game-logo strong {
+    font-size: 88px;
+  }
+  .game-logo > span {
+    font-size: 46px;
+  }
+  .game-logo {
+    margin-top: 18px;
+  }
+  .logo-flourish {
+    margin: 16px 0 12px;
+  }
+  .home-menu {
+    margin-top: 23px;
+  }
+  .home-tagline {
+    font-size: 16px;
+  }
+  .play-button {
+    min-height: 72px;
+  }
+  .menu-pair {
+    margin-top: 16px;
+  }
+  .menu-links {
+    margin-top: 15px;
+  }
+  .adventure-card {
+    bottom: 68px;
+  }
+  .page-heading {
+    margin-top: 24px;
+  }
+  .page-shell {
+    padding-top: 20px;
+  }
+  .level-card-art {
+    height: 88px;
+  }
+  .level-card-body {
+    padding: 12px 15px;
+  }
+  .level-map {
+    gap: 18px;
+  }
+  .map-intro {
+    margin: 18px 0;
+  }
+  .game-heading {
+    margin-top: 21px;
+  }
+  .quest-progress {
+    margin: 18px 0;
+  }
+  .game-bottom {
+    margin-top: 22px;
+  }
+}
+@media (max-width: 1100px) {
+  .home-main {
+    width: 51%;
+  }
+  .home-view {
+    padding-left: 3.5vw;
+    padding-right: 3.5vw;
+  }
+  .adventure-label {
+    letter-spacing: 2px;
+    font-size: 8px;
+  }
+  .game-logo strong {
+    font-size: clamp(68px, 8.5vw, 91px);
+  }
+  .game-logo > span {
+    font-size: 46px;
+  }
+  .adventure-card {
+    right: 3.5vw;
+    width: 340px;
+    padding: 18px;
+    gap: 12px;
+  }
+  .adventure-card h2 {
+    font-size: 13px;
+  }
+  .hero-character-label {
+    display: none;
+  }
+  .home-footer span:nth-child(2) {
+    display: none;
+  }
+  .page-shell,
+  .game-shell,
+  .result-shell {
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
+  .level-card-body h2 {
+    font-size: 13px;
+  }
+  .level-card-body > p {
+    font-size: 8px;
+  }
+  .level-card-bottom {
+    gap: 5px;
+  }
+  .level-card-bottom > span:last-child {
+    font-size: 9px;
+  }
+  .level-card-bottom .stars {
+    gap: 1px;
+  }
+  .level-card-bottom .stars .icon {
+    width: 14px;
+    height: 14px;
+  }
+  .level-map {
+    gap: 15px;
+  }
+  .game-topbar {
+    gap: 12px;
+  }
+  .game-topbar .wordmark {
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+  .game-topbar .wordmark > .icon {
+    display: none;
+  }
+  .hud {
+    gap: 8px;
+  }
+  .hud-item {
+    padding: 8px 10px;
+  }
+  .challenge-layout {
+    gap: 20px;
+    grid-template-columns: minmax(180px, 0.75fr) minmax(0, 2fr);
+  }
+  .paper {
+    padding: 25px;
+  }
+  .answers {
+    gap: 10px;
+  }
+  .answer {
+    font-size: 13px;
+    padding: 11px;
+    gap: 9px;
+  }
+  .quest-aside h2 {
+    font-size: 21px;
+  }
+  .quest-aside > p {
+    font-size: 11px;
+  }
+  .achievements-grid {
+    gap: 12px;
+  }
+  .achievement-card {
+    padding: 18px 13px;
+    gap: 12px;
+  }
+  .achievement-medal {
+    min-width: 49px;
+    width: 49px;
+    height: 49px;
+  }
+  .achievement-medal .icon {
+    width: 26px;
+    height: 26px;
+  }
+  .achievement-card h2 {
+    font-size: 13px;
+  }
+  .settings-grid {
+    gap: 18px;
+  }
+  .glass-panel {
+    padding: 23px;
+  }
+  .story-prompts {
+    gap: 8px;
+  }
+  .story-prompt {
+    padding: 12px 9px;
+    grid-template-columns: 19px 1fr;
+  }
+  .story-prompt > .icon {
+    width: 19px;
+    height: 19px;
+  }
+}
+@media (max-width: 900px) {
+  .home-view {
+    min-height: 760px;
+  }
+  .home-main {
+    width: 58%;
+    margin-top: 55px;
+  }
+  .home-header {
+    padding: 0 10px;
+  }
+  .home-menu {
+    width: 300px;
+  }
+  .home-tagline {
+    font-size: 17px;
+  }
+  .game-logo strong {
+    font-size: 75px;
+    letter-spacing: -3px;
+  }
+  .game-logo > span {
+    font-size: 42px;
+  }
+  .home-tools {
+    gap: 8px;
+  }
+  .adventure-card {
+    right: 25px;
+    bottom: 72px;
+    width: 320px;
+  }
+  .adventure-card-icon {
+    display: none;
+  }
+  .adventure-card h2 {
+    font-size: 14px;
+  }
+  .page-heading h1 {
+    font-size: 33px;
+  }
+  .level-map {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+  }
+  .level-card-art {
+    height: 124px;
+  }
+  .level-card-body h2 {
+    min-height: auto;
+    font-size: 17px;
+    margin-bottom: 14px;
+  }
+  .level-card-body > p {
+    font-size: 9px;
+  }
+  .level-card-bottom > span:last-child {
+    font-size: 11px;
+  }
+  .level-card-bottom .stars .icon {
+    width: 18px;
+    height: 18px;
+  }
+  .map-overview {
+    gap: 16px;
+  }
+  .map-overview > span {
+    font-size: 10px;
+  }
+  .map-intro > p {
+    font-size: 12px;
+  }
+  .settings-grid {
+    grid-template-columns: 1fr;
+    max-width: 620px;
+  }
+  .settings-side {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    align-items: start;
+  }
+  .achievements-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .stats-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .stat-card {
+    padding: 20px 10px;
+  }
+  .stat-card > strong {
+    font-size: 23px;
+  }
+  .stat-card > span {
+    text-align: center;
+    font-size: 10px;
+  }
+  .game-topbar .wordmark {
+    display: none;
+  }
+  .game-topbar .hud {
+    margin-left: 0;
+    flex: 1;
+    justify-content: center;
+  }
+  .game-heading h1 {
+    font-size: 27px;
+  }
+  .game-heading .eyebrow {
+    font-size: 9px;
+  }
+  .game-emblem {
+    width: 53px;
+    height: 53px;
+    border-radius: 15px;
+  }
+  .game-emblem > .icon {
+    width: 29px;
+    height: 29px;
+  }
+  .challenge-layout {
+    grid-template-columns: 1fr;
+  }
+  .quest-aside {
+    display: none;
+  }
+  .battle-aside {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr 1fr;
+    align-items: center;
+    padding: 0;
+    gap: 18px;
+  }
+  .battle-stage {
+    height: 160px;
+    margin: 0;
+    border: 0;
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .battle-stage .fighter {
+    height: 150px;
+  }
+  .battle-stage .fighter.rival {
+    height: 125px;
+  }
+  .battle-stage .versus {
+    font-size: 16px;
+    left: 45%;
+    top: 39px;
+  }
+  .fighter-label {
+    padding: 12px;
+  }
+  .fighter-label b {
+    font-size: 17px;
+  }
+  .fighter-label > span {
+    font-size: 9px;
+  }
+  .battle-tip {
+    display: none;
+  }
+  .race-aside {
+    display: flex;
+    padding-top: 0;
+  }
+  .race-aside > .eyebrow,
+  .race-aside > h2,
+  .race-aside > p,
+  .race-aside > .rule-tags {
+    display: none;
+  }
+  .race-scene {
+    height: 130px;
+    max-width: 500px;
+    margin-top: 0;
+  }
+  .race-mountains {
+    height: 90px;
+  }
+  .race-runner {
+    height: 108px;
+  }
+  .race-aside > .energy {
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 0;
+    margin-top: 5px;
+  }
+  .race-distance {
+    max-width: 500px;
+    margin-top: 10px;
+  }
+  .quest-aside:has(.library-door) {
+    display: grid;
+    grid-template-columns: 75px 1fr;
+    gap: 0 20px;
+    text-align: left;
+    align-items: center;
+    padding: 0;
+  }
+  .quest-aside:has(.library-door) > .eyebrow,
+  .quest-aside:has(.library-door) > h2,
+  .quest-aside:has(.library-door) > p:not(.keys-total) {
+    display: none;
+  }
+  .library-door {
+    grid-column: 1;
+    grid-row: 1/3;
+    width: 70px;
+    height: 109px;
+    margin: 0;
+    border-width: 5px;
+  }
+  .clue-card {
+    grid-column: 2;
+    margin: 0;
+    max-width: none;
+    padding: 10px 14px;
+  }
+  .clue-card > p {
+    margin-top: 6px;
+  }
+  .keys-total {
+    grid-column: 2;
+    margin-top: 5px;
+    max-width: 100% !important;
+  }
+  .story-paper {
+    padding: 24px;
+  }
+  .story-prompts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .story-prompt {
+    padding: 12px;
+    grid-template-columns: 24px 1fr;
+  }
+  .story-prompt > .icon {
+    width: 23px;
+    height: 23px;
+  }
+  .story-heading h2 {
+    font-size: 25px;
+  }
+  .story-paper textarea {
+    font-size: 16px;
+  }
+  .game-bottom {
+    font-size: 8px;
+  }
+}
+@media (max-width: 620px) {
+  body[data-scene='home']::before {
+    background:
+      linear-gradient(90deg, #05251fcc, #082c2177),
+      linear-gradient(0deg, #062a24c7, transparent 70%),
+      url('../assets/images/backgrounds/valley.png') 60% center/cover;
+  }
+  .home-view {
+    min-height: 830px;
+    height: 100svh;
+    max-height: none;
+    padding: 21px 21px 18px;
+    align-items: center;
+    overflow: visible;
+  }
+  .home-header {
+    width: 100%;
+    padding: 0;
+    gap: 10px;
+  }
+  .kingdom-brand {
+    gap: 8px;
+  }
+  .kingdom-brand img {
+    width: 37px;
+    height: 37px;
+  }
+  .kingdom-brand span {
+    font-size: 7px;
+    letter-spacing: 1.5px;
+  }
+  .kingdom-brand b {
+    font-size: 8px;
+    letter-spacing: 1px;
+  }
+  .home-tools {
+    gap: 7px;
+  }
+  .home-tools .stat-pill {
+    min-height: 34px;
+    padding: 6px 10px;
+    gap: 6px;
+    font-size: 12px;
+  }
+  .home-tools .stat-pill .icon {
+    height: 14px;
+    width: 14px;
+  }
+  .home-tools .stat-pill small {
+    font-size: 9px;
+  }
+  .home-tools .icon-button {
+    height: 34px;
+    width: 34px;
+  }
+  .home-tools .icon-button .icon {
+    height: 17px;
+    width: 17px;
+  }
+  .home-main {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 48px;
+  }
+  .adventure-label {
+    font-size: 8px;
+    letter-spacing: 1.8px;
+  }
+  .game-logo {
+    margin-top: 23px;
+  }
+  .game-logo > span {
+    font-size: 45px;
+  }
+  .game-logo strong {
+    font-size: clamp(66px, 16vw, 89px);
+    letter-spacing: -2.5px;
+  }
+  .logo-flourish {
+    margin: 19px 0 13px;
+  }
+  .home-tagline {
+    font-size: 17px;
+  }
+  .home-menu {
+    width: 300px;
+    max-width: 100%;
+    margin-top: 26px;
+  }
+  .play-button {
+    min-height: 75px;
+    font-size: 26px;
+  }
+  .forest-button {
+    min-height: 49px;
+    font-size: 13px;
+  }
+  .menu-pair {
+    margin-top: 17px;
+  }
+  .menu-links {
+    margin-top: 17px;
+  }
+  .adventure-card {
+    position: relative;
+    width: 100%;
+    max-width: 350px;
+    right: auto;
+    bottom: auto;
+    margin: 29px 0 27px;
+    padding: 17px 18px;
+    border-radius: 13px;
+    background: #153d30dd;
+  }
+  .adventure-card-icon {
+    display: grid;
+    width: 36px;
+    height: 36px;
+  }
+  .adventure-card-icon .icon {
+    height: 23px;
+    width: 23px;
+  }
+  .adventure-card h2 {
+    font-size: 13px;
+  }
+  .adventure-card-content > p {
+    font-size: 7px;
+  }
+  .adventure-card-content > a {
+    font-size: 8px;
+  }
+  .home-footer {
+    width: 100%;
+    justify-content: center;
+    margin-top: auto;
+    font-size: 8px;
+  }
+  .home-footer > span:last-child {
+    display: none;
+  }
+  .page-shell,
+  .game-shell,
+  .result-shell {
+    padding: 18px 18px 28px;
+  }
+  .page-topbar {
+    gap: 12px;
+  }
+  .wordmark {
+    font-size: 9px;
+    letter-spacing: 0.8px;
+    gap: 8px;
+  }
+  .wordmark > .icon {
+    height: 24px;
+    width: 24px;
+  }
+  .topbar-right {
+    gap: 9px;
+  }
+  .page-topbar .stat-pill {
+    font-size: 12px;
+    gap: 7px;
+    padding: 7px 10px;
+    min-height: 36px;
+  }
+  .page-topbar .stat-pill .icon {
+    width: 15px;
+    height: 15px;
+  }
+  .page-topbar .stat-pill small {
+    font-size: 9px;
+  }
+  .page-topbar .icon-button {
+    height: 37px;
+    width: 37px;
+    border-radius: 10px;
+  }
+  .page-topbar .icon-button .icon {
+    width: 18px;
+    height: 18px;
+  }
+  .topbar-right > .icon-button {
+    display: none;
+  }
+  .page-heading {
+    margin-top: 28px;
+  }
+  .page-heading h1 {
+    font-size: 28px;
+    letter-spacing: -0.5px;
+    line-height: 1.25;
+    margin-top: 10px;
+  }
+  .eyebrow {
+    font-size: 9px;
+    letter-spacing: 2px;
+  }
+  .map-intro {
+    flex-direction: column;
+    gap: 16px;
+    text-align: center;
+    margin: 17px 0;
+  }
+  .map-intro > p {
+    font-size: 11px;
+    line-height: 1.7;
+  }
+  .difficulty-selector {
+    font-size: 11px;
+  }
+  .map-overview {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 12px;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .map-overview > .progress-track {
+    order: 3;
+    flex-basis: 100%;
+    height: 4px;
+  }
+  .map-overview > span {
+    font-size: 9px;
+    gap: 6px;
+  }
+  .map-overview .icon {
+    height: 14px;
+    width: 14px;
+  }
+  .level-map {
+    gap: 16px 12px;
+  }
+  .level-card {
+    border-radius: 12px;
+  }
+  .level-card-art {
+    height: 99px;
+  }
+  .level-icon {
+    width: 53px;
+    height: 53px;
+  }
+  .level-icon .icon {
+    height: 27px;
+    width: 27px;
+  }
+  .level-number {
+    font-size: 15px;
+    top: 8px;
+    left: 10px;
+  }
+  .level-status {
+    right: 8px;
+    bottom: 8px;
+    width: 20px;
+    height: 20px;
+  }
+  .level-card-body {
+    padding: 12px 11px 10px;
+  }
+  .level-card-body h2 {
+    font-size: 13px;
+    min-height: 34px;
+    line-height: 1.3;
+    margin: 6px 0 9px;
+  }
+  .level-card-body > p {
+    font-size: 7px;
+    letter-spacing: 0.4px;
+    min-height: 20px;
+  }
+  .level-card-bottom {
+    padding-top: 9px;
+    gap: 4px;
+  }
+  .level-card-bottom .stars {
+    gap: 2px;
+  }
+  .level-card-bottom .stars .icon {
+    width: 13px;
+    height: 13px;
+  }
+  .level-card-bottom > span:last-child {
+    font-size: 8px;
+  }
+  .map-note {
+    font-size: 10px;
+    line-height: 1.7;
+    align-items: flex-start;
+    text-align: center;
+    margin-top: 22px;
+  }
+  .map-note > .icon {
+    min-width: 18px;
+    margin-top: 3px;
+  }
+  .settings-grid {
+    margin-top: 24px;
+  }
+  .settings-side {
+    display: flex;
+    flex-direction: column;
+  }
+  .settings-side > * {
+    width: 100%;
+  }
+  .glass-panel {
+    padding: 22px;
+  }
+  .setting-row {
+    padding: 23px 0;
+  }
+  .setting-row p {
+    font-size: 10px;
+  }
+  .setting-row label,
+  .setting-row b {
+    font-size: 13px;
+  }
+  .setting-row {
+    gap: 15px;
+  }
+  .achievements-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .achievement-card {
+    padding: 17px;
+    gap: 17px;
+  }
+  .achievement-medal {
+    height: 56px;
+    width: 56px;
+    min-width: 56px;
+  }
+  .achievement-card h2 {
+    font-size: 14px;
+  }
+  .achievement-card p {
+    font-size: 11px;
+  }
+  .stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin: 25px 0;
+  }
+  .stat-card {
+    padding: 18px 10px;
+  }
+  .stat-card > strong {
+    font-size: 26px;
+  }
+  .personal-records {
+    padding: 18px 13px;
+  }
+  .personal-records h2 {
+    font-size: 19px;
+  }
+  .record-row {
+    gap: 9px;
+  }
+  .record-row > span:nth-child(2) {
+    font-size: 11px;
+  }
+  .record-row > b {
+    min-width: 48px;
+    font-size: 10px;
+  }
+  .record-row .stars {
+    gap: 2px;
+  }
+  .record-row .stars .icon {
+    height: 12px;
+    width: 12px;
+  }
+  .record-icon {
+    width: 23px;
+  }
+  .record-icon .icon {
+    width: 19px;
+    height: 19px;
+  }
+  .credits-columns {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .credits-panel {
+    padding: 25px 22px;
+  }
+  .credits-lead {
+    font-size: 14px;
+  }
+  .credits-lead br {
+    display: none;
+  }
+  .credits-columns p {
+    font-size: 12px;
+  }
+  .game-topbar {
+    gap: 9px;
+    padding-bottom: 15px;
+    flex-wrap: wrap;
+  }
+  .game-topbar > .icon-button {
+    height: 36px;
+    width: 36px;
+    border-radius: 10px;
+  }
+  .game-topbar > .icon-button .icon {
+    height: 17px;
+    width: 17px;
+  }
+  .game-topbar .hud {
+    gap: 6px;
+  }
+  .hud-item {
+    min-height: 35px;
+    padding: 7px 9px;
+    font-size: 12px;
+    gap: 5px;
+    border-radius: 8px;
+  }
+  .hud-item small {
+    display: none;
+  }
+  .hud-item .icon {
+    width: 15px;
+    height: 15px;
+  }
+  .hud-item.lives {
+    gap: 3px;
+    padding: 9px 7px;
+  }
+  .hud-item.lives > .icon {
+    height: 12px;
+    width: 12px;
+  }
+  .hud-item.timer {
+    min-width: 72px;
+  }
+  .game-heading {
+    margin-top: 20px;
+    gap: 12px;
+  }
+  .game-heading h1 {
+    font-size: 23px;
+    margin-top: 6px;
+  }
+  .game-heading .eyebrow {
+    font-size: 8px;
+    letter-spacing: 0.7px;
+  }
+  .game-heading .eyebrow span {
+    margin: 0 3px;
+  }
+  .game-emblem {
+    min-width: 44px;
+    width: 44px;
+    height: 44px;
+    border-radius: 13px;
+  }
+  .game-emblem > .icon {
+    height: 25px;
+    width: 25px;
+  }
+  .difficulty-tag {
+    display: none;
+  }
+  .quest-progress {
+    margin: 19px 0;
+    font-size: 9px;
+    gap: 12px;
+  }
+  .quest-progress #combo-label {
+    min-width: 88px;
+  }
+  .paper {
+    padding: 23px 19px;
+    border-radius: 15px;
+    box-shadow:
+      0 5px 0 #88765066,
+      0 10px 30px #08252433,
+      inset 0 0 0 4px #fff9e380;
+  }
+  .paper h2 {
+    font-size: 23px;
+  }
+  .paper-label {
+    font-size: 8px;
+    letter-spacing: 1.5px;
+  }
+  .instruction {
+    font-size: 12px;
+    line-height: 1.7;
+    margin-top: 11px;
+  }
+  .detective-text {
+    font-size: 18px;
+    padding: 17px 12px;
+    margin-top: 20px;
+    line-height: 2.3;
+  }
+  .word-detect {
+    padding: 2px 3px;
+    line-height: 2;
+  }
+  .paper-actions {
+    gap: 10px;
+    margin-top: 18px;
+  }
+  .paper-actions .button {
+    font-size: 12px;
+    min-height: 45px;
+    padding: 11px 15px;
+    flex: 1;
+    white-space: nowrap;
+  }
+  .paper-actions .icon {
+    height: 17px;
+    width: 17px;
+  }
+  .feedback {
+    font-size: 11px;
+    padding: 12px;
+    gap: 9px;
+  }
+  .feedback strong {
+    font-size: 12px;
+  }
+  .points-pop {
+    font-size: 16px;
+  }
+  .choice-paper blockquote {
+    font-size: 17px;
+    line-height: 1.7;
+    padding: 12px 13px;
+    margin: 0 0 20px;
+  }
+  .choice-paper h2 {
+    font-size: 21px;
+    line-height: 1.4;
+  }
+  .answers {
+    grid-template-columns: 1fr;
+    gap: 11px;
+    margin-top: 21px;
+  }
+  .answer {
+    padding: 12px;
+    min-height: 56px;
+    font-size: 13px;
+    border-radius: 9px;
+  }
+  .answer-letter {
+    height: 27px;
+    min-width: 27px;
+  }
+  .choice-paper > .next-round {
+    min-height: 45px;
+    font-size: 13px;
+    width: 100%;
+  }
+  .game-bottom {
+    margin-top: 24px;
+    justify-content: center;
+  }
+  .game-bottom > span:last-child {
+    display: none;
+  }
+  .battle-aside {
+    gap: 9px;
+    grid-template-columns: 1fr 1.15fr 1fr;
+  }
+  .fighter-label {
+    padding: 10px 9px;
+    border-radius: 9px;
+  }
+  .fighter-label b {
+    font-size: 16px;
+  }
+  .fighter-label > span {
+    font-size: 8px;
+    line-height: 1.4;
+    display: block;
+  }
+  .energy {
+    height: 7px;
+  }
+  .battle-stage {
+    height: 128px;
+  }
+  .battle-stage .fighter {
+    height: 126px;
+  }
+  .battle-stage .fighter.rival {
+    height: 100px;
+  }
+  .battle-stage .versus {
+    font-size: 13px;
+    top: 35px;
+    left: 41%;
+  }
+  .sentence-art {
+    gap: 15px;
+    margin: 22px auto 17px;
+    font-size: 13px;
+  }
+  .sentence-art > .icon {
+    height: 28px;
+    width: 28px;
+  }
+  .sentence-art > .icon:last-child {
+    display: none;
+  }
+  .word-bank {
+    padding: 12px 0;
+    gap: 9px;
+  }
+  .word-tile {
+    font-size: 15px;
+    padding: 9px 12px;
+    min-height: 44px;
+    border-radius: 8px;
+  }
+  .sentence-slots {
+    padding: 13px 10px;
+    gap: 8px;
+    min-height: 110px;
+  }
+  .slot-placeholder {
+    font-size: 12px;
+  }
+  .story-heading {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+  }
+  .story-heading h2 {
+    font-size: 25px;
+  }
+  .story-heading > .button {
+    align-self: flex-end;
+    min-height: 37px;
+    font-size: 11px;
+  }
+  .story-prompts {
+    gap: 8px;
+    margin: 18px 0;
+  }
+  .story-prompt {
+    padding: 12px 9px;
+    column-gap: 6px;
+    grid-template-columns: 20px 1fr;
+  }
+  .story-prompt > .icon {
+    width: 18px;
+    height: 18px;
+  }
+  .story-prompt > span {
+    font-size: 8px;
+  }
+  .story-prompt > strong {
+    font-size: 11px;
+  }
+  .story-paper textarea {
+    min-height: 300px;
+    font-size: 16px;
+    padding: 12px;
+  }
+  .text-meta {
+    font-size: 9px;
+    align-items: flex-start;
+  }
+  .text-meta > span:last-child {
+    text-align: right;
+    max-width: 65%;
+  }
+  .saved-story {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .story-paper .paper-actions {
+    flex-direction: column;
+  }
+  .story-paper .paper-actions .button {
+    width: 100%;
+  }
+  .evaluation-note {
+    font-size: 9px;
+  }
+  .forbidden-target {
+    font-size: 32px !important;
+  }
+  .forbidden-list > b {
+    font-size: 12px;
+    padding: 5px 9px;
+  }
+  .forbidden-paper textarea {
+    min-height: 200px;
+  }
+  .result-card {
+    padding: 27px 19px;
+    margin-top: 25px;
+    border-radius: 19px;
+  }
+  .result-card h1 {
+    font-size: 29px;
+  }
+  .result-card .eyebrow {
+    font-size: 8px;
+    letter-spacing: 1.7px;
+  }
+  .result-emblem {
+    width: 62px;
+    height: 62px;
+  }
+  .result-stars {
+    gap: 15px;
+  }
+  .result-stars > .icon {
+    width: 45px;
+    height: 45px;
+  }
+  .result-stars > .icon:nth-child(2) {
+    width: 58px;
+    height: 58px;
+  }
+  .result-score {
+    font-size: 43px;
+  }
+  .result-metrics {
+    gap: 10px;
+    justify-content: space-around;
+    padding: 20px 0;
+  }
+  .result-metrics > div {
+    min-width: 0;
+    flex: 1;
+  }
+  .result-metrics b {
+    font-size: 21px;
+  }
+  .result-metrics span {
+    font-size: 9px;
+  }
+  .unlock-banner {
+    font-size: 11px;
+  }
+  .result-actions {
+    flex-direction: column;
+    gap: 13px;
+  }
+  .result-actions > .button {
+    width: 100%;
+    font-size: 13px;
+  }
+  .result-reason {
+    font-size: 13px;
+  }
+  .toasts {
+    bottom: 18px;
+  }
+  .toast {
+    padding: 13px 16px;
+    font-size: 11px;
+  }
+  dialog {
+    padding: 28px 24px;
+  }
+  dialog h2 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 370px) {
+  .home-view {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .home-tools {
+    gap: 5px;
+  }
+  .home-tools .stat-pill {
+    padding: 6px 8px;
+  }
+  .game-logo strong {
+    font-size: 64px;
+  }
+  .adventure-label {
+    font-size: 7px;
+  }
+  .page-shell,
+  .game-shell,
+  .result-shell {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .game-topbar {
+    gap: 5px;
+  }
+  .game-topbar > .icon-button {
+    width: 31px;
+    height: 34px;
+  }
+  .game-topbar .hud {
+    gap: 4px;
+  }
+  .hud-item {
+    padding: 7px 6px;
+  }
+  .hud-item.timer {
+    min-width: 66px;
+  }
+  .hud-item.lives {
+    padding: 8px 5px;
+    gap: 2px;
+  }
+  .hud-item.lives > .icon {
+    height: 10px;
+    width: 10px;
+  }
+  .level-card-body {
+    padding: 11px 9px;
+  }
+  .level-card-body h2 {
+    font-size: 12px;
+  }
+  .level-card-bottom .stars .icon {
+    width: 11px;
+    height: 11px;
+  }
+  .level-card-bottom > span:last-child {
+    font-size: 7px;
+  }
+  .map-overview > span {
+    font-size: 8px;
+  }
+  .record-row > .stars {
+    display: none;
+  }
+  .wordmark {
+    font-size: 8px;
+  }
+  .wordmark > .icon {
+    height: 21px;
+    width: 21px;
+  }
+}
+@media (max-height: 520px) and (min-width: 621px) {
+  .home-view {
+    min-height: 670px;
+  }
+  .home-main {
+    margin-top: 28px;
+  }
+  .game-content {
+    min-height: 0;
+  }
+  .page-heading {
+    margin-top: 20px;
+  }
+}
+
+/* Compact map for landscape play; every destination remains visible at 16:9. */
+.mobile-detective-count,
+.mobile-forbidden-instruction {
+  display: none;
+}
+@media (min-width: 901px) {
+  body[data-route='map'] .page-shell {
+    padding-bottom: 22px;
+  }
+  body[data-route='map'] .page-heading {
+    margin-top: 21px;
+  }
+  body[data-route='map'] .page-heading h1 {
+    line-height: 1.2;
+    font-size: 38px;
+  }
+  body[data-route='map'] .map-intro {
+    margin: 14px 0;
+  }
+  body[data-route='map'] .map-overview {
+    padding: 12px 18px;
+    margin-bottom: 19px;
+  }
+  body[data-route='map'] .level-card-art {
+    height: 96px;
+  }
+  body[data-route='map'] .level-card-body {
+    padding: 12px 15px 11px;
+  }
+  body[data-route='map'] .level-card-body h2 {
+    min-height: 32px;
+    font-size: 14px;
+  }
+  body[data-route='map'] .level-card-bottom {
+    padding-top: 9px;
+    margin-top: 7px;
+  }
+  body[data-route='map'] .map-note {
+    margin-top: 20px;
+  }
+}
+@media (min-width: 901px) and (max-height: 800px) {
+  body[data-route='map'] .page-heading {
+    margin-top: 18px;
+  }
+  body[data-route='map'] .page-heading h1 {
+    font-size: 34px;
+  }
+  body[data-route='map'] .level-card-art {
+    height: 85px;
+  }
+}
+@media (max-width: 900px) {
+  .mobile-detective-count {
+    display: inline-block;
+    margin-top: 16px;
+    font-size: 11px;
+    color: #577a46;
+    border: 1px solid #b5c4a0;
+    border-radius: 8px;
+    padding: 6px 10px;
+    background: #e2e8ce;
+  }
+  .mobile-forbidden-instruction {
+    display: block;
+    font-size: 12px;
+    line-height: 1.7;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 620px) {
+  .home-tools .icon-button {
+    height: 44px;
+    width: 44px;
+  }
+  .game-topbar > .icon-button {
+    height: 42px;
+    width: 42px;
+  }
+}
+@media (max-width: 370px) {
+  .home-tools .icon-button {
+    height: 40px;
+    width: 40px;
+  }
+  .home-tools .stat-pill small {
+    display: none;
+  }
+  .game-topbar > .icon-button {
+    height: 40px;
+    width: 36px;
+  }
+}

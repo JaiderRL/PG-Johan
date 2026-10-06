@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Misión: Palabra — El reino de las letras",
+  "short_name": "Misión Palabra",
+  "description": "Ocho aventuras para descubrir el poder de las palabras.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#103f39",
+  "theme_color": "#103f39",
+  "icons": [
+    { "src": "assets/images/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/images/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/images/icons/emblem.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "categories": ["education", "games"],
+  "shortcuts": [{ "name": "Explorar el reino", "url": "./index.html#/map" }]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-23T20:58:22.233Z",
+  "browsers": [
+    {
+      "channel": "chrome",
+      "version": "154.0.8037.57"
+    },
+    {
+      "channel": "msedge",
+      "version": "153.0.4234.48"
+    }
+  ],
+  "checks": [
+    "chrome: menú, bloqueo inicial, temporizador y pausa verificados",
+    "chrome: desafío 1 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 2 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 3 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 4 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 5 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 6 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 7 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: desafío 8 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "chrome: progreso tras cerrar contexto, logros, estadísticas, opciones persistentes y cancelación de borrado verificados",
+    "chrome: las pantallas y los ocho juegos no desbordan a 390 px; construcción táctil verificada",
+    "chrome: derrota por vidas, reintento, derrota por tiempo y borrado confirmado verificados",
+    "msedge: menú, bloqueo inicial, temporizador y pausa verificados",
+    "msedge: desafío 1 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 2 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 3 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 4 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 5 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 6 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 7 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: desafío 8 completado mediante controles de usuario, puntos y tres estrellas verificados",
+    "msedge: progreso tras cerrar contexto, logros, estadísticas, opciones persistentes y cancelación de borrado verificados",
+    "msedge: las pantallas y los ocho juegos no desbordan a 390 px; construcción táctil verificada",
+    "msedge: derrota por vidas, reintento, derrota por tiempo y borrado confirmado verificados"
+  ],
+  "errors": []
+}

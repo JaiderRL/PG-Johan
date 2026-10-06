@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-24T04:30:02.677Z",
+  "checks": [
+    "Sin desbordamiento en 14 pantallas a 1920 × 1080",
+    "Sin desbordamiento en 14 pantallas a 1440 × 810",
+    "Sin desbordamiento en 14 pantallas a 1366 × 768",
+    "Sin desbordamiento en 14 pantallas a 768 × 1024",
+    "Sin desbordamiento en 14 pantallas a 390 × 844",
+    "Sin desbordamiento en 14 pantallas a 320 × 640",
+    "Navegación de historial cierra los diálogos y el teclado alcanza los controles",
+    "Los relatos guardados conservan texto HTML como texto inerte",
+    "chrome: tres rondas por escrito, validaciones y vidas correctas; sin controles ni acceso a API de micrófono, incluso sin AudioContext",
+    "msedge: tres rondas por escrito, validaciones y vidas correctas; sin controles ni acceso a API de micrófono, incluso sin AudioContext",
+    "Almacenamiento rechazado: aviso visible y juego utilizable en memoria",
+    "PWA: 35 recursos precargados; recarga, menú, mapa y primer desafío funcionales sin red"
+  ],
+  "errors": []
+}

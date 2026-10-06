@@ -1,0 +1,17 @@
+{
+  "name": "mision-palabra",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Aventura educativa en español, sin dependencias de ejecución",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/core.test.mjs",
+    "test:browser": "node tests/browser.mjs",
+    "test:compatibility": "node tests/compatibility.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
